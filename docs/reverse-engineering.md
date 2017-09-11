@@ -5,3 +5,6 @@
 
 ## Cheat sheets 
 - [Zeltser](https://zeltser.com/reverse-engineering-malicious-code-tips/)
+
+## Tools
+- [Compiler explorer](https://gcc.godbolt.org/)
