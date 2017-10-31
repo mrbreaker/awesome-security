@@ -21,8 +21,6 @@ A list of security tools and links that I find useful.
 
 ## Web applications
 
-### Reconnaissance 
-
 ### Domain discovery
 - [VirusTotal](https://virustotal.com)
     + domain:target.com
@@ -42,9 +40,9 @@ A list of security tools and links that I find useful.
   - [SSRF bible.](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
 
 ### Authentication
-#### SAML
-- [Office365 bypass](http://www.economyofmechanism.com/office365-authbypass.html#office365-authbypass)
-- [Uber bypass](http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/)
+- SAML
+  - [Office365 bypass](http://www.economyofmechanism.com/office365-authbypass.html#office365-authbypass)
+  - [Uber bypass](http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/)
 
 ## Networks
 ### Network Discovery 
