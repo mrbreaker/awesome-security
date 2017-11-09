@@ -44,6 +44,9 @@ A list of security tools and links that I find useful.
   - [Office365 bypass](http://www.economyofmechanism.com/office365-authbypass.html#office365-authbypass)
   - [Uber bypass](http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/)
 
+### Fuzzers
+- [Tiny URL Fuzzer](https://github.com/orangetw/Tiny-URL-Fuzzer) - A tiny and cute URL fuzzer
+
 ## Networks
 ### Network Discovery 
 - [A Masscan Tutorial and Primer](https://danielmiessler.com/study/masscan/) - A basic masscan tutorial by Daniel Messler
