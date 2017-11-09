@@ -30,7 +30,6 @@ A list of security tools and links that I find useful.
 - [Netcraft searchdns](https://searchdns.netcraft.com)
 - [Shodan](https://www.shodan.io)
 
-
 ### Web application vulnerabilities
 - XSS
   - [BeEF](https://github.com/beefproject/beef)
@@ -60,6 +59,9 @@ A list of security tools and links that I find useful.
 
 ### RE Cheat sheets 
 - [Zeltser](https://zeltser.com/reverse-engineering-malicious-code-tips/)
+
+## Malware analysis
+- [Unpacking Shade](https://secrary.com/ReversingMalware/UnpackingShade/)
 
 ## RSS feeds
 - Forums
