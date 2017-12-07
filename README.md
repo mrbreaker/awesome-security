@@ -37,6 +37,8 @@ A list of security tools and links that I find useful.
 - SSRF
   - [SSRF bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
   - [A new era of SSRF exploiting in trending programming languages](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
+- XML
+  - [XML cheatsheet](https://gist.github.com/mgeeky/4f726d3b374f0a34267d4f19c9004870)
 
 ### Authentication
 - SAML
